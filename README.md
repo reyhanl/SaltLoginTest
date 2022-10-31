@@ -10,6 +10,8 @@ solution.
 I am sorry for the fact that I did not make a regular update to the Repository and instead just push the whole finished project, I feel a single page
 project does not need a fine and granular Git push.
 
+I would also like to mention that this is the first time I am using MVVM in a project other than SwiftUI. I got to face the possibility that my code is not exactly up to industry standard, but I am a fast learner, I am sure that I am going to get used to MVVM one I looked at a good project.
+
 ## REQUIREMENT
 XCODE 14 BETA
 
