@@ -15,7 +15,7 @@ XCODE 14 BETA
 
 ## Instalation Guide
 ```
-git clone https://github.com/reyhanl/SatlTest.git
+git clone https://github.com/reyhanl/SaltLoginTest.git
 ```
 1. Clone this repository
 2. Run the project
